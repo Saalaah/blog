@@ -12,6 +12,7 @@ Blogs project(BY LARAVEL framework) contain of <br />
 ## How to Run
 1-First clone the project <br />
 -make your DB configurations<br />
+-then install composer<br />
 -and run the migrations (php artisan migrate) <br />
 2-Serve the project (PHP artisan serve) <br />
 3-Open Postman <br />
