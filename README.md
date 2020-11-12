@@ -15,7 +15,7 @@ Blogs project(BY LARAVEL framework) contain of <br />
 3-Open Postman <br />
 4-Create user throw this route (http://127.0.0.1:8000/api/createUser)&nbsp; &nbsp;=>Post request<br />
 example data : {"name":"salah","email":"salah@gmail.com","password":"12345678"}<br />
-5-login throw this route (http://127.0.0.1:8000/api/login)=>Post request <br />
+5-login throw this route (http://127.0.0.1:8000/api/login) &nbsp; &nbsp;=>Post request <br />
 6-open new tab and use the token from the previuos step in headers like [Authorization : bearer dnsajdjskabdjskabdjkbad]<br />
 now you are authorized to create Posts and add comments to them (+ editing and deleting)
 
