@@ -11,6 +11,7 @@ Blogs project(BY LARAVEL framework) contain of <br />
 
 ## How to Run
 1-First clone the project <br />
+and run the migrations (php artisan migrate) <br />
 2-Serve the project (PHP artisan serve) <br />
 3-Open Postman <br />
 4-Create user throw this route (http://127.0.0.1:8000/api/createUser)&nbsp; &nbsp;=>Post request<br />
